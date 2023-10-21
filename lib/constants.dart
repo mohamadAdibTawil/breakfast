@@ -1,0 +1,23 @@
+import 'dart:ui';
+
+const kArrowLeftIcon = 'assets/icons/Arrow - Left 2.svg';
+const kBlueberryPancake = 'assets/icons/blueberry-pancake.svg';
+const kButtonIcon = 'assets/icons/button.svg';
+const kCanaiBreadIcon = 'assets/icons/canai-bread.svg';
+const kDotsIcon = 'assets/icons/dots.svg';
+const kFilterIcon = 'assets/icons/Filter.svg';
+const kHoneyPancakesIcon = 'assets/icons/honey-pancakes.svg';
+const kOrangeSnacksIcon = 'assets/icons/orange-snacks.svg';
+const kPancakesIcon = 'assets/icons/pancakes.svg';
+const kPieIcon = 'assets/icons/pie.svg';
+const kPlateIcon = 'assets/icons/plate.svg';
+const kSalmonNigiriIcon = 'assets/icons/salmon-nigiri.svg';
+const kSearchIcon = 'assets/icons/Search.svg';
+const kFontPoppins = 'Poppins';
+const kBackgroundSvgColor = Color(0xffF7F8F8);
+const kDivderColor = Color(0xffDDDADA);
+const kInfoColor = Color(0xff7b6f72);
+const kGradientColor1 = Color(0xff9dceeff);
+const kGradientColor2 = Color(0xff92a3fd);
+const kButtonColor = Color(0xffc58bf2);
+const kBoxShadow = Color(0xff1d1617);
